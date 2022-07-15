@@ -1,44 +1,48 @@
 body {
-  background-color: Brown;
-  margin: 75px 55px;
-}
-h1 {
-  text-align: center;
-  font-family: 'Dancing Script', cursive;
-  border-bottom: 1px solid tan;
-  color: tan
-}
-h3 {
-  font-size: 24px;
-  color: tan
-}
-
-h4 {
-  color: white;
-  font-size: 18px
-}
-
-h6 {
-  color: white
-}
-
-p {
-  color:white
+  
+  background-color: tan;
+  margin: 10% 20%;
 }
 
 .Experience {
   text-align: center;
-  border-top: 1px solid tan;
-  border-bottom: 1px solid tan;
   text-transform: uppercase;
+  border-bottom: 1px solid brown;
 }
 
 .Education {
   text-align: center;
-  border-top: 1px solid tan;
-  border-bottom: 1px solid tan;
+  text-transform: uppercase;
+  border-bottom: 1px solid brown;;
 }
 
 .Professional {
-  border-bottom: 1px solid tan;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  border-bottom: 5px solid brown;
+}
+
+h4 {
+  color: brown
+}
+
+ul {
+  color: white
+}
+
+img {
+  float: right;
+  margin: 0% 15%;
+}
+
+P {
+  margin: 5% 5%;
+}
+
+.Info {
+  text-align: center;
+  border-top: 5px solid brown;
 }
