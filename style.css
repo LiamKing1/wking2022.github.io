@@ -8,6 +8,7 @@ body {
   text-align: center;
   text-transform: uppercase;
   border-bottom: 1px solid brown;
+  border-top: 1px solid brown
 }
 
 .Education {
@@ -20,26 +21,32 @@ body {
   text-align: center;
 }
 
+.Personal {
+  text-align: center;
+}
+
 h1 {
   text-align: center;
   border-bottom: 5px solid brown;
+  
 }
 
 h4 {
-  color: brown
+  color: brown;
 }
 
 ul {
-  color: white
+  color: white;
 }
 
 img {
   float: right;
-  margin: 0% 15%;
+  margin: -85px 0px;
 }
 
 P {
-  margin: 5% 5%;
+  text-align: left;
+  margin: 100px 15px;
 }
 
 .Info {
