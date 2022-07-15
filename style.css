@@ -25,6 +25,11 @@ body {
   border-bottom: 5px solid brown;
 }
 
+.Info {
+  border-top: 5px solid brown;
+  text-align: center;
+}
+
 h1 {
   text-align: center;
 }
@@ -45,9 +50,4 @@ img {
 P {
   text-align: left;
   margin: 100px 15px;
-}
-
-.Info {
-  border-top: 5px solid brown;
-  text-align: center;
 }
